@@ -1,0 +1,17 @@
+{
+  "name": "org-stc-application-preferences",
+  "version": "0.0.1",
+  "description": "Application Preferences Plugin",
+  "repository": {
+    
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova"
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "author": "TSU"
+}
